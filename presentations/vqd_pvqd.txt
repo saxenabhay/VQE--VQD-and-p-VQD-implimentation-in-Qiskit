@@ -1,0 +1,3 @@
+VQD (Variational Quantum Deflation) and pVQD (Projected - Variational Quantum Dynamics) were presented using thier respective ipynb files (Jupyter notebook) along with VQE shared under codes folder.
+
+follow to vqe.ipynb and vqd.ipynb for basic presentation template given in class
